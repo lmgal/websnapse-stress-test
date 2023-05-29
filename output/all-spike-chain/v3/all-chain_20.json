@@ -1,0 +1,341 @@
+{
+    "neurons": [
+        {
+            "id": "N0",
+            "type": "regular",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N1",
+            "type": "regular",
+            "position": {
+                "x": 150,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N2",
+            "type": "regular",
+            "position": {
+                "x": 300,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N3",
+            "type": "regular",
+            "position": {
+                "x": 450,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N4",
+            "type": "regular",
+            "position": {
+                "x": 600,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N5",
+            "type": "regular",
+            "position": {
+                "x": 750,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N6",
+            "type": "regular",
+            "position": {
+                "x": 900,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N7",
+            "type": "regular",
+            "position": {
+                "x": 1050,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N8",
+            "type": "regular",
+            "position": {
+                "x": 1200,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N9",
+            "type": "regular",
+            "position": {
+                "x": 1350,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 0
+        },
+        {
+            "id": "N10",
+            "type": "regular",
+            "position": {
+                "x": 1500,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N11",
+            "type": "regular",
+            "position": {
+                "x": 1650,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N12",
+            "type": "regular",
+            "position": {
+                "x": 1800,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N13",
+            "type": "regular",
+            "position": {
+                "x": 1950,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N14",
+            "type": "regular",
+            "position": {
+                "x": 2100,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N15",
+            "type": "regular",
+            "position": {
+                "x": 2250,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N16",
+            "type": "regular",
+            "position": {
+                "x": 2400,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N17",
+            "type": "regular",
+            "position": {
+                "x": 2550,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N18",
+            "type": "regular",
+            "position": {
+                "x": 2700,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N19",
+            "type": "regular",
+            "position": {
+                "x": 2850,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        }
+    ],
+    "synapses": [
+        {
+            "from": "N0",
+            "to": "N1",
+            "weight": 1
+        },
+        {
+            "from": "N1",
+            "to": "N2",
+            "weight": 1
+        },
+        {
+            "from": "N2",
+            "to": "N3",
+            "weight": 1
+        },
+        {
+            "from": "N3",
+            "to": "N4",
+            "weight": 1
+        },
+        {
+            "from": "N4",
+            "to": "N5",
+            "weight": 1
+        },
+        {
+            "from": "N5",
+            "to": "N6",
+            "weight": 1
+        },
+        {
+            "from": "N6",
+            "to": "N7",
+            "weight": 1
+        },
+        {
+            "from": "N7",
+            "to": "N8",
+            "weight": 1
+        },
+        {
+            "from": "N8",
+            "to": "N9",
+            "weight": 1
+        },
+        {
+            "from": "N9",
+            "to": "N10",
+            "weight": 1
+        },
+        {
+            "from": "N10",
+            "to": "N11",
+            "weight": 1
+        },
+        {
+            "from": "N11",
+            "to": "N12",
+            "weight": 1
+        },
+        {
+            "from": "N12",
+            "to": "N13",
+            "weight": 1
+        },
+        {
+            "from": "N13",
+            "to": "N14",
+            "weight": 1
+        },
+        {
+            "from": "N14",
+            "to": "N15",
+            "weight": 1
+        },
+        {
+            "from": "N15",
+            "to": "N16",
+            "weight": 1
+        },
+        {
+            "from": "N16",
+            "to": "N17",
+            "weight": 1
+        },
+        {
+            "from": "N17",
+            "to": "N18",
+            "weight": 1
+        },
+        {
+            "from": "N18",
+            "to": "N19",
+            "weight": 1
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "neurons": [
+        {
+            "id": "N0",
+            "type": "regular",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N1",
+            "type": "regular",
+            "position": {
+                "x": 150,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N2",
+            "type": "regular",
+            "position": {
+                "x": 300,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N3",
+            "type": "regular",
+            "position": {
+                "x": 450,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N4",
+            "type": "regular",
+            "position": {
+                "x": 600,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N5",
+            "type": "regular",
+            "position": {
+                "x": 750,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N6",
+            "type": "regular",
+            "position": {
+                "x": 900,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N7",
+            "type": "regular",
+            "position": {
+                "x": 1050,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N8",
+            "type": "regular",
+            "position": {
+                "x": 1200,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        },
+        {
+            "id": "N9",
+            "type": "regular",
+            "position": {
+                "x": 1350,
+                "y": 0
+            },
+            "rules": [
+                "a/a\\to a;0"
+            ],
+            "content": 1
+        }
+    ],
+    "synapses": [
+        {
+            "from": "N0",
+            "to": "N1",
+            "weight": 1
+        },
+        {
+            "from": "N1",
+            "to": "N2",
+            "weight": 1
+        },
+        {
+            "from": "N2",
+            "to": "N3",
+            "weight": 1
+        },
+        {
+            "from": "N3",
+            "to": "N4",
+            "weight": 1
+        },
+        {
+            "from": "N4",
+            "to": "N5",
+            "weight": 1
+        },
+        {
+            "from": "N5",
+            "to": "N6",
+            "weight": 1
+        },
+        {
+            "from": "N6",
+            "to": "N7",
+            "weight": 1
+        },
+        {
+            "from": "N7",
+            "to": "N8",
+            "weight": 1
+        },
+        {
+            "from": "N8",
+            "to": "N9",
+            "weight": 1
+        }
+    ]
+}
